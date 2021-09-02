@@ -41,7 +41,7 @@ const Portfolio = () => {
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/domot-img.PNG" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://nostalgic-jang-fa99a2.netlify.app" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -51,7 +51,7 @@ const Portfolio = () => {
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/eduflix-img.PNG" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="https://affectionate-tereshkova-893497.netlify.app/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
